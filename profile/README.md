@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF?text=Kodo+Logo" alt="Kodo Logo" width="120" />
   
   # 🚀 Kodo 
   **Transformando disciplina em recompensa através da gamificação.**
