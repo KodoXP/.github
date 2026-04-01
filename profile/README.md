@@ -31,7 +31,7 @@ Nosso principal produto, o **Kodo App**, é um sistema de produtividade focado e
 
 | Repositório | Descrição | Status |
 | :--- | :--- | :---: |
-| [**kodo-api**](./kodo-api) | O motor do Kodo. Nossa API RESTful robusta construída com Node.js, Express v5, Sequelize e PostgreSQL. | 🚧 Em Dev |
+| [**kodo-api**](https://github.com/KodoXP/kodoxp-backend) | O motor do Kodo. Nossa API RESTful robusta construída com Node.js, Express v5, Sequelize e PostgreSQL. | 🚧 Em Dev |
 | [**kodo-web**](./kodo-web) | *(Em breve)* Nossa interface web moderna, rápida e responsiva para gerenciamento do painel de usuário. | 🔜 Planejado |
 | [**kodo-infrastructure**](./kodo-infra) | *(Em breve)* Scripts de CI/CD, configurações do Docker Compose, Nginx e provisionamento na nuvem. | 🔜 Planejado |
 
@@ -57,14 +57,6 @@ Construímos software para ser escalável, manutenível e seguro. Adotamos prát
 - [ ] **Testes Automatizados:** Cobertura de testes de integração na API para garantir a estabilidade do sistema de pontos.
 
 ---
-
-## 🤝 Junte-se a Nós
-
-Queremos construir uma comunidade em torno da produtividade gamificada. Seja você um engenheiro de software, designer ou um entusiasta de produtividade, toda contribuição é bem-vinda!
-
-1. Explore nossos repositórios abertos.
-2. Leia nosso [Guia de Contribuição](./CONTRIBUTING.md) *(em breve)*.
-3. Encontre uma `issue` com a tag `good first issue` e abra seu PR!
 
 <br/>
 
